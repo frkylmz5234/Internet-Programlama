@@ -1,7 +1,29 @@
-h1{
-    color: aqua !important;
+table{
+    justify-content: space-around;
+    border-style: dashed;
+    height: auto;
+    padding: 40px;
+    margin:auto ;
+    margin-top: 150px;
+    border-radius: 15px;
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: aqua;
+    background-color:blueviolet;
+    border-color: aqua;
+    position: center;
+    border-collapse:separate;
+    outline: auto;
+    font-weight: bolder
+    
+
 }
-.text{
-    color: red;
-    background-color: black;
+#tbas{
+ color: red;
+
+}
+#tbody{
+    color:whitesmoke;
+    justify-content: space-around;
 }
